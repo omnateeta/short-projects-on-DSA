@@ -1,3 +1,4 @@
+//This is using DSA concept bulited one program..
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
